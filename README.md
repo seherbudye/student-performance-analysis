@@ -33,5 +33,3 @@ The goal of this project is to demonstrate basic data analysis techniques on stu
 
 ## Author
 Seher Budye
-## Author
-Seher
